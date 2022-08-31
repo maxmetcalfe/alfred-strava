@@ -4,8 +4,16 @@
   "version": "1.0.0",
   "description": "A simple Strava workflow for Alfred",
   "main": "index.js",
-  "author": "Max Metcalfe <hello@maxmetcalfe.com>",
+  "author": {
+    "name": "Max Metcalfe",
+    "email": "hello@maxmetcalfe.com",
+    "url": "https://maxmetcalfe.com"
+  },
   "license": "MIT",
+  "scripts": {
+    "postinstall": "alfy-init",
+    "preuninstall": "alfy-cleanup"
+  },
   "dependencies": {
     "alfy": "^1.0.0",
     "moment": "^2.29.4",
