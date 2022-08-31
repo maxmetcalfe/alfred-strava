@@ -25,7 +25,7 @@
 	<key>createdby</key>
 	<string>Max Metcalfe</string>
 	<key>description</key>
-	<string>Get information from Strava</string>
+	<string>Get Strava activities</string>
 	<key>disabled</key>
 	<false/>
 	<key>name</key>
@@ -85,7 +85,7 @@
 				<key>scriptfile</key>
 				<string>node.js</string>
 				<key>subtext</key>
-				<string>Get recent Strava activities</string>
+				<string>Get Strava activities</string>
 				<key>title</key>
 				<string>Search Strava</string>
 				<key>type</key>
@@ -136,8 +136,8 @@
 		<string>CLIENT_ID</string>
 	</array>
 	<key>version</key>
-	<string>1.6</string>
+	<string>1.0</string>
 	<key>webaddress</key>
-	<string></string>
+	<string>https://github.com/maxmetcalfe/alfred-strava</string>
 </dict>
 </plist>
