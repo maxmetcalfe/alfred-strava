@@ -34,6 +34,11 @@ The default keyword is "strava". After entering this keyword, hit 'return' and a
 
 ![screenshot](./screenshot.png "screenshot")
 
+
+## Optional Parameters
+
+To use metric units, set `METRIC_UNITS` to `true`.
+
 ## License
 
 MIT
