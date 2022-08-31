@@ -134,6 +134,7 @@
 		<string>REFRESH_TOKEN</string>
 		<string>CLIENT_SECRET</string>
 		<string>CLIENT_ID</string>
+		<string>METRIC_UNITS</string>
 	</array>
 	<key>version</key>
 	<string>1.0</string>
