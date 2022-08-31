@@ -4,7 +4,7 @@
 
 ## Installation
 
-Download [Strava.alfredworkflow](Strava.alfredworkflow) and open it in Alfred.
+Download the Strava.alfredworkflow file from https://github.com/maxmetcalfe/alfred-strava/releases and open it in Alfred.
 
 ## Authentication
 
