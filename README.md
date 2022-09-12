@@ -12,7 +12,7 @@ This workflow requires three environment variables to connect to Strava. These v
 
 - `CLIENT_ID`
 - `CLIENT_SECRET`
-- `REFRESH_TOKEN`
+- `CODE`
 
 ### Follow these steps to get the values for these variables
 
@@ -24,7 +24,7 @@ This workflow requires three environment variables to connect to Strava. These v
 
 4. Click "Authorize".
 
-5. Inspect the URL in the search bar and copy the value for `code`. This is the value for `REFRESH_TOKEN`.
+5. Inspect the URL in the search bar and copy the value for `code`. This is the value for `CODE`.
 
 6. That's it! Enter those values into the workflow configuration.
 
@@ -33,7 +33,6 @@ This workflow requires three environment variables to connect to Strava. These v
 The default keyword is "strava". After entering this keyword, hit 'return' and a list of your most recent Strava activites will appear. Selecting an activity will open it on strava.com in your default browser.
 
 ![screenshot](./screenshot.png "screenshot")
-
 
 ## Optional Parameters
 

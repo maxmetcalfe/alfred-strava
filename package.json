@@ -17,6 +17,7 @@
   "dependencies": {
     "alfy": "^1.0.0",
     "moment": "^2.29.4",
+    "node-fetch": "^3.2.10",
     "strava": "^2.0.1"
   }
 }
