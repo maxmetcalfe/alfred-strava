@@ -2,9 +2,13 @@
 
 ![screenshot](./screenshot.png "screenshot")
 
+## System Requirements
+
+- Node JS 10+
+
 ## Installation
 
-Download the Strava.alfredworkflow file from https://github.com/maxmetcalfe/alfred-strava/releases and open it in Alfred.
+Download the [Strava.alfredworkflow](https://github.com/maxmetcalfe/alfred-strava/releases/latest/download/Strava.alfredworkflow) and open it.
 
 ## Authentication
 
